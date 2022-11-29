@@ -1,0 +1,221 @@
+Afganistan ; 34280 ; 17774 ; 16507
+Albania ; 3256 ; 1602 ; 1654
+Alemania ; 81265 ; 39941 ; 41324
+Andorra ; 93 ; 48 ; 45
+Angola ; 21712 ; 10693 ; 11019
+Anguilla ; 17 ; 8 ; 9
+Antigua y Barbuda ; 93 ; 46 ; 47
+Antillas Neerlandesas ; 207 ; 96 ; 111
+Arabia Saudita ; 28933 ; 15682 ; 13251
+Argelia ; 38126 ; 19234 ; 18892
+Argentina ; 42548 ; 20891 ; 21657
+Armenia ; 3136 ; 1466 ; 1670
+Aruba ; 109 ; 52 ; 57
+Australia ; 22584 ; 11236 ; 11349
+Austria ; 8467 ; 4149 ; 4318
+Azerbaiyan ; 9417 ; 4628 ; 4788
+Bahamas ; 366 ; 178 ; 188
+Bahrein ; 881 ; 503 ; 378
+Bangladesh ; 175042 ; 88485 ; 86557
+Barbados ; 260 ; 127 ; 133
+Belarus ; 9346 ; 4331 ; 5014
+Belgica ; 10878 ; 5319 ; 5559
+Belice ; 344 ; 173 ; 171
+Benin ; 10658 ; 5387 ; 5270
+Bermudas ; 65 ; 33 ; 32
+Bhutan ; 770 ; 407 ; 363
+Bolivia ; 10865 ; 5416 ; 5449
+Bosnia y Herzegovina ; 3731 ; 1793 ; 1938
+Botswana ; 2106 ; 1059 ; 1047
+Brasil ; 202866 ; 99607 ; 103259
+Brunei Darussalam ; 443 ; 227 ; 216
+Bulgaria ; 7263 ; 3501 ; 3762
+Burkina Faso ; 19013 ; 9526 ; 9487
+Burundi ; 9422 ; 4631 ; 4791
+Cabo Verde ; 549 ; 263 ; 286
+Camboya ; 16341 ; 8048 ; 8293
+Camerun ; 22169 ; 11107 ; 11062
+Canada ; 35422 ; 17605 ; 17817
+Chad ; 13133 ; 6521 ; 6612
+Chile ; 17908 ; 8855 ; 9053
+China ; 1402561 ; 728658 ; 673903
+Chipre ; 924 ; 450 ; 474
+Colombia ; 49385 ; 24297 ; 25088
+Comoras ; 991 ; 497 ; 494
+Congo ; 4229 ; 2113 ; 2117
+Costa Rica ; 4957 ; 2513 ; 2444
+Cote d'Ivoire ; 24210 ; 12274 ; 11936
+Croacia ; 4370 ; 2111 ; 2259
+Cuba ; 11224 ; 5618 ; 5607
+Dinamarca ; 5517 ; 2745 ; 2773
+Djibouti ; 953 ; 477 ; 476
+Dominica ; 67 ; 33 ; 34
+Ecuador ; 14611 ; 7298 ; 7313
+Egipto ; 91962 ; 46164 ; 45797
+El Salvador ; 6383 ; 2987 ; 3396
+Emiratos Arabes Unidos ; 5188 ; 3448 ; 1740
+Eritrea ; 5997 ; 2962 ; 3035
+Eslovaquia ; 5437 ; 2632 ; 2805
+Eslovenia ; 2044 ; 1002 ; 1042
+España ; 47203 ; 23413 ; 23790
+Estados Unidos de America ; 332334 ; 164505 ; 167829
+Estonia ; 1336 ; 618 ; 718
+Etiopia ; 96237 ; 47926 ; 48311
+Federacion de Rusia ; 137845 ; 63472 ; 74373
+Fiji ; 874 ; 443 ; 431
+Filipinas ; 101836 ; 51376 ; 50460
+Finlandia ; 5432 ; 2667 ; 2765
+Francia ; 63900 ; 31119 ; 32781
+Gabon ; 1642 ; 823 ; 820
+Gambia ; 1987 ; 987 ; 1000
+Georgia ; 4084 ; 1915 ; 2169
+Ghana ; 26979 ; 13678 ; 13301
+Gibraltar ; 31 ; 16 ; 15
+Granada ; 107 ; 54 ; 53
+Grecia ; 11250 ; 5585 ; 5664
+Groenlandia ; 57 ; 29 ; 28
+Guadalupe ; 476 ; 227 ; 249
+Guam ; 191 ; 97 ; 94
+Guatemala ; 16211 ; 7903 ; 8308
+Guayana francesa ; 261 ; 130 ; 131
+Guinea ; 11832 ; 5981 ; 5851
+Guinea Ecuatorial ; 783 ; 389 ; 394
+Guinea-Bissau ; 1850 ; 917 ; 933
+Guyana ; 752 ; 385 ; 367
+Haiti ; 10957 ; 5424 ; 5533
+Honduras ; 8394 ; 4193 ; 4201
+Hungria ; 9864 ; 4680 ; 5184
+India ; 1295486 ; 667803 ; 627683
+Indonesia ; 244435 ; 121851 ; 122584
+Iran (Republica Islamica del) ; 79454 ; 40283 ; 39171
+Iraq ; 35812 ; 18157 ; 17655
+Irlanda ; 4876 ; 2443 ; 2433
+Islandia ; 353 ; 183 ; 170
+Islas Caiman ; 59 ; 29 ; 30
+Islas Cook ; 20 ; 10 ; 10
+Islas Feroe (Miembro Asociado) ; 52 ; 26 ; 26
+Islas Malvinas ; 3 ; 1 ; 2
+Islas Marianas septentrionales ; 96 ; 46 ; 50
+Islas Marshall ; 70 ; 34 ; 36
+Islas Salomon ; 600 ; 310 ; 289
+Islas Turcas y Caicos ; 35 ; 17 ; 18
+Islas Virgenes (EE.UU.) ; 108 ; 51 ; 57
+Islas Virgenes Britanicas ; 24 ; 12 ; 12
+Islas Wallis y Futuna ; 16 ; 8 ; 8
+Israel ; 7807 ; 3880 ; 3927
+Italia ; 60543 ; 29575 ; 30969
+Jamahiriya Arabe Libia ; 7158 ; 3686 ; 3472
+Jamaica ; 2786 ; 1368 ; 1418
+Japon ; 125791 ; 61009 ; 64782
+Jordania ; 6957 ; 3562 ; 3395
+Kazajstan ; 16273 ; 7721 ; 8552
+Kenya ; 46387 ; 23170 ; 23217
+Kirguistan ; 5883 ; 2909 ; 2974
+Kiribati ; 107 ; 51 ; 56
+Kuwait ; 3375 ; 1986 ; 1388
+La ex Republica Yugoslava de Macedonia ; 2045 ; 1020 ; 1025
+Lesotho ; 2168 ; 1032 ; 1136
+Letonia ; 2195 ; 1017 ; 1178
+Libano ; 4430 ; 2169 ; 2262
+Liberia ; 4660 ; 2323 ; 2337
+Liechtenstein ; 38 ; 19 ; 19
+Lituania ; 3140 ; 1471 ; 1669
+Luxemburgo ; 521 ; 259 ; 262
+Madagascar ; 22899 ; 11381 ; 11518
+Malasia ; 30041 ; 15231 ; 14810
+Malawi ; 18016 ; 8981 ; 9035
+Maldivas ; 338 ; 170 ; 167
+Mali ; 14963 ; 7407 ; 7556
+Malta ; 418 ; 209 ; 209
+Marruecos ; 34364 ; 16822 ; 17543
+Martinica ; 411 ; 193 ; 218
+Mauricio ; 1337 ; 660 ; 677
+Mauritania ; 3732 ; 1892 ; 1840
+Mexico ; 115644 ; 56840 ; 58804
+Micronesia (Estados Federados de) ; 114 ; 58 ; 56
+Monaco ; 33 ; 16 ; 17
+Mongolia ; 2855 ; 1410 ; 1445
+Montenegro ; 626 ; 308 ; 319
+Montserrat ; 6 ; 3 ; 3
+Mozambique ; 25983 ; 12745 ; 13238
+Myanmar ; 53087 ; 25906 ; 27181
+Namibia ; 2412 ; 1194 ; 1218
+Nauru ; 11 ; 5 ; 6
+Nepal ; 32503 ; 16121 ; 16382
+Nicaragua ; 6284 ; 3107 ; 3176
+Niger ; 19169 ; 9632 ; 9537
+Nigeria ; 176456 ; 88668 ; 87788
+Noruega ; 4694 ; 2513 ; 2181
+Nueva Caledonia ; 285 ; 135 ; 150
+Nueva Zelandia ; 4321 ; 2224 ; 2098
+Oman ; 3454 ; 1781 ; 1673
+Paises Bajos ; 15156 ; 8390 ; 6766
+Pakistan ; 225438 ; 105629 ; 119809
+Palau ; 21 ; 10 ; 11
+Panama ; 3694 ; 1902 ; 1792
+Papua Nueva Guinea ; 7916 ; 3893 ; 4023
+Paraguay ; 6867 ; 3525 ; 3342
+Peru ; 30979 ; 15661 ; 15318
+Polinesia Francesa ; 288 ; 147 ; 141
+Polonia ; 34841 ; 18176 ; 16665
+Portugal ; 10679 ; 5232 ; 5447
+Puerto Rico ; 4151 ; 1947 ; 2204
+Qatar ; 1821 ; 1209 ; 611
+Reino Unido ; 55841 ; 31256 ; 24585
+Republica Arabe Siria ; 26943 ; 12443 ; 14500
+Republica Centroafricana ; 4902 ; 2419 ; 2483
+Republica Checa ; 9396 ; 5171 ; 4225
+Republica De Corea ; 50824 ; 24331 ; 26493
+Republica De Moldova ; 3455 ; 1648 ; 1807
+Republica Democratica Del Congo ; 84077 ; 38400 ; 45677
+Republica Democratica Popular Lao ; 6951 ; 3507 ; 3444
+Republica Dominicana ; 10682 ; 5444 ; 5238
+Republica Popular Democratica de Corea ; 23618 ; 12053 ; 11565
+Republica Unida de Tanzania ; 54871 ; 26055 ; 28816
+Reunion ; 844 ; 431 ; 413
+Rumania ; 19623 ; 10082 ; 9541
+Rwanda ; 12976 ; 5707 ; 7269
+Sahara occidental ; 626 ; 329 ; 297
+Saint Kitts y Nevis ; 54 ; 27 ; 26
+Saint-Pierre y Miquelon ; 6 ; 3 ; 3
+Samoa ; 191 ; 94 ; 96
+Samoa Americana ; 73 ; 37 ; 36
+San Marino ; 30 ; 16 ; 14
+San Vicente y las Granadinas ; 116 ; 55 ; 60
+Santa Elena ; 4 ; 2 ; 2
+Santa Lucia ; 190 ; 89 ; 101
+Santo Tome y Principe ; 184 ; 89 ; 95
+Senegal ; 15790 ; 7205 ; 8585
+Serbia ; 8953 ; 4865 ; 4088
+Seychelles ; 84 ; 43 ; 41
+Sierra Leona ; 7226 ; 3206 ; 4019
+Singapur ; 4492 ; 2535 ; 1958
+Somalia ; 10892 ; 5333 ; 5559
+Sri Lanka ; 19833 ; 10372 ; 9462
+Sudafrica ; 54733 ; 25480 ; 29253
+Sudan ; 47396 ; 24056 ; 23340
+Suecia ; 8947 ; 4730 ; 4217
+Suiza ; 7063 ; 3760 ; 3303
+Suriname ; 533 ; 273 ; 260
+Swazilandia ; 1423 ; 636 ; 788
+Tailandia ; 74135 ; 34270 ; 39865
+Tayikistan ; 7963 ; 3826 ; 4137
+Territorio Palestino Ocupado ; 5136 ; 2596 ; 2540
+Timor-Leste ; 1451 ; 704 ; 748
+Togo ; 7599 ; 3773 ; 3826
+Tonga ; 103 ; 53 ; 49
+Trinidad y Tabago ; 1305 ; 662 ; 643
+Tunez ; 10590 ; 5475 ; 5115
+Turkmenistan ; 5564 ; 2710 ; 2854
+Turquia ; 79486 ; 40063 ; 39423
+Tuvalu ; 10 ; 5 ; 5
+Ucrania ; 40499 ; 20360 ; 20139
+Uganda ; 40544 ; 19934 ; 20609
+Uruguay ; 3228 ; 1657 ; 1571
+Uzbekistan ; 29809 ; 14669 ; 15140
+Vanuatu ; 307 ; 140 ; 167
+Venezuela (Republica Bolivariana de) ; 30291 ; 15677 ; 14613
+Viet Nam ; 98704 ; 46449 ; 52255
+Yemen ; 28320 ; 14049 ; 14271
+Zambia ; 15025 ; 7505 ; 7520
+Zimbabwe ; 14282 ; 6860 ; 7421

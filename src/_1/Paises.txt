@@ -1,0 +1,221 @@
+Africa ; Angola ; 1246700
+Africa ; Argelia ; 2381740
+Africa ; Benin ; 112620
+Africa ; Botswana ; 600370
+Africa ; Burkina Faso ; 274200
+Africa ; Burundi ; 27830
+Africa ; Cabo Verde ; 4033
+Africa ; Camerun ; 475440
+Africa ; Chad ; 1284000
+Africa ; Comoras ; 2170
+Africa ; Congo ; 342000
+Africa ; Djibouti ; 23000
+Africa ; Egipto ; 1001450
+Africa ; Eritrea ; 121320
+Africa ; Etiopia ; 1127127
+Africa ; Gabon ; 267667
+Africa ; Gambia ; 11300
+Africa ; Ghana ; 239460
+Africa ; Guinea ; 245857
+Africa ; Guinea Ecuatorial ; 28051
+Africa ; Guinea-Bissau ; 36120
+Africa ; Jamahiriya Arabe Libia ; 1759541
+Africa ; Kenya ; 582650
+Africa ; Lesotho ; 30355
+Africa ; Liberia ; 111370
+Africa ; Madagascar ; 587040
+Africa ; Malawi ; 118480
+Africa ; Mali ; 1240000
+Africa ; Marruecos ; 446550
+Africa ; Mauricio ; 2040
+Africa ; Mauritania ; 1030700
+Africa ; Mozambique ; 801590
+Africa ; Namibia ; 825418
+Africa ; Niger ; 1267000
+Africa ; Nigeria ; 923768
+Africa ; Republica Centroafricana ; 622984
+Africa ; Republica Democratica Del Congo ; 2345410
+Africa ; Republica Unida de Tanzania ; 945087
+Africa ; Reunion ; 2512
+Africa ; Rwanda ; 26338
+Africa ; Sahara occidental ; 266000
+Africa ; Santa Elena ; 413
+Africa ; Santo Tome y Principe ; 1001
+Africa ; Senegal ; 196190
+Africa ; Seychelles ; 455
+Africa ; Sierra Leona ; 71740
+Africa ; Somalia ; 637657
+Africa ; Sudafrica ; 1219912
+Africa ; Sudan ; 1886068
+Africa ; Swazilandia ; 17363
+Africa ; Togo ; 56785
+Africa ; Tunez ; 163610
+Africa ; Uganda ; 236040
+Africa ; Zambia ; 752614
+Africa ; Zimbabwe ; 390580
+America ; Anguilla ; 91
+America ; Antigua y Barbuda ; 443
+America ; Antillas Neerlandesas ; 960
+America ; Aruba ; 190
+America ; Bahamas ; 13940
+America ; Barbados ; 431
+America ; Belice ; 23667
+America ; Bermudas ; 53
+America ; Canada ; 9984670
+America ; Costa Rica ; 51100
+America ; Cuba ; 110860
+America ; Dominica ; 754
+America ; El Salvador ; 21040
+America ; Estados Unidos de America ; 9826630
+America ; Granada ; 344
+America ; Groenlandia ; 2166086
+America ; Guadalupe ; 1706
+America ; Guatemala ; 108890
+America ; Haiti ; 27750
+America ; Honduras ; 112090
+America ; Islas Caiman ; 262
+America ; Islas Turcas y Caicos ; 417
+America ; Islas Virgenes (EE.UU.) ; 352
+America ; Islas Virgenes Britanicas ; 153
+America ; Jamaica ; 10991
+America ; Martinica ; 1100
+America ; Mexico ; 1972550
+America ; Montserrat ; 102
+America ; Nicaragua ; 129494
+America ; Panama ; 78200
+America ; Puerto Rico ; 8870
+America ; Republica Dominicana ; 48730
+America ; Saint-Pierre y Miquelon ; 242
+America ; San Vicente y las Granadinas ; 389
+America ; Santa Lucia ; 616
+America ; Trinidad y Tabago ; 5128
+Asia ; Afganistan ; 647500
+Asia ; Arabia Saudita ; 2149690
+Asia ; Argentina ; 2766890
+Asia ; Azerbaiyan ; 86600
+Asia ; Bahrein ; 665
+Asia ; Bangladesh ; 144000
+Asia ; Bhutan ; 47000
+Asia ; Bolivia ; 1098580
+Asia ; Brasil ; 8511965
+Asia ; Brunei Darussalam ; 5770
+Asia ; Camboya ; 181040
+Asia ; Chile ; 756950
+Asia ; China ; 9596960
+Asia ; Colombia ; 1138910
+Asia ; Cote d'Ivoire ; 120540
+Asia ; Ecuador ; 283560
+Asia ; Emiratos Arabes Unidos ; 83600
+Asia ; Filipinas ; 300000
+Asia ; Guam ; 541
+Asia ; Guayana francesa ; 91000
+Asia ; Guyana ; 214970
+Asia ; India ; 3287590
+Asia ; Indonesia ; 1919440
+Asia ; Iran (Republica Islamica del) ; 1648000
+Asia ; Iraq ; 437072
+Asia ; Islas Malvinas ; 12173
+Asia ; Islas Marianas septentrionales ; 477
+Asia ; Islas Marshall ; 171
+Asia ; Israel ; 20770
+Asia ; Japon ; 377835
+Asia ; Jordania ; 92300
+Asia ; Kazajstan ; 2717300
+Asia ; Kirguistan ; 198500
+Asia ; Kuwait ; 17820
+Asia ; Libano ; 10400
+Asia ; Malasia ; 329749
+Asia ; Maldivas ; 298
+Asia ; Mongolia ; 1564116
+Asia ; Myanmar ; 678500
+Asia ; Nepal ; 147181
+Asia ; Oman ; 212460
+Asia ; Pakistan ; 803940
+Asia ; Paraguay ; 406750
+Asia ; Peru ; 1285220
+Asia ; Qatar ; 11586
+Asia ; Republica Arabe Siria ; 185180
+Asia ; Republica De Corea ; 223348
+Asia ; Republica Democratica Popular Lao ; 236800
+Asia ; Republica Popular Democratica de Corea ; 120540
+Asia ; Singapur ; 693
+Asia ; Sri Lanka ; 65610
+Asia ; Suriname ; 163270
+Asia ; Tailandia ; 514000
+Asia ; Tayikistan ; 143100
+Asia ; Territorio Palestino Ocupado ; 6220
+Asia ; Turkmenistan ; 488100
+Asia ; Uruguay ; 176220
+Asia ; Uzbekistan ; 447400
+Asia ; Venezuela (Republica Bolivariana de) ; 912050
+Asia ; Viet Nam ; 329556
+Asia ; Yemen ; 527970
+Europa ; Albania ; 28748
+Europa ; Alemania ; 357021
+Europa ; Andorra ; 468
+Europa ; Armenia ; 29800
+Europa ; Austria ; 83870
+Europa ; Belarus ; 207600
+Europa ; Belgica ; 30528
+Europa ; Bosnia y Herzegovina ; 51129
+Europa ; Bulgaria ; 110910
+Europa ; Chipre ; 9520
+Europa ; Croacia ; 56542
+Europa ; Dinamarca ; 43094
+Europa ; Eslovaquia ; 48845
+Europa ; Eslovenia ; 20273
+Europa ; España ; 504782
+Europa ; Estonia ; 45226
+Europa ; Federacion de Rusia ; 17075200
+Europa ; Finlandia ; 338145
+Europa ; Francia ; 547026
+Europa ; Georgia ; 69700
+Europa ; Gibraltar ; 6
+Europa ; Grecia ; 131940
+Europa ; Hungria ; 93030
+Europa ; Irlanda ; 70280
+Europa ; Islandia ; 103000
+Europa ; Islas Feroe (Miembro Asociado) ; 1399
+Europa ; Italia ; 301230
+Europa ; La ex Republica Yugoslava de Macedonia ; 25333
+Europa ; Letonia ; 64589
+Europa ; Liechtenstein ; 157
+Europa ; Lituania ; 65200
+Europa ; Luxemburgo ; 2586
+Europa ; Malta ; 316
+Europa ; Monaco ; 2
+Europa ; Montenegro ; 14026
+Europa ; Noruega ; 323802
+Europa ; Paises Bajos ; 41526
+Europa ; Polonia ; 312685
+Europa ; Portugal ; 92391
+Europa ; Reino Unido ; 244820
+Europa ; Republica Checa ; 78866
+Europa ; Republica De Moldova ; 33843
+Europa ; Rumania ; 237500
+Europa ; San Marino ; 61
+Europa ; Serbia ; 77474
+Europa ; Suecia ; 449964
+Europa ; Suiza ; 41290
+Europa ; Turquia ; 780580
+Europa ; Ucrania ; 603700
+Oceania ; Australia ; 7686850
+Oceania ; Fiji ; 18270
+Oceania ; Islas Cook ; 240
+Oceania ; Islas Salomon ; 28450
+Oceania ; Islas Wallis y Futuna ; 274
+Oceania ; Kiribati ; 811
+Oceania ; Micronesia (Estados Federados de) ; 702
+Oceania ; Nauru ; 21
+Oceania ; Nueva Caledonia ; 19060
+Oceania ; Nueva Zelandia ; 268680
+Oceania ; Palau ; 498
+Oceania ; Papua Nueva Guinea ; 462840
+Oceania ; Polinesia Francesa ; 4167
+Oceania ; Saint Kitts y Nevis ; 261
+Oceania ; Samoa ; 2944
+Oceania ; Samoa Americana ; 197
+Oceania ; Timor-Leste ; 15007
+Oceania ; Tonga ; 748
+Oceania ; Tuvalu ; 26
+Oceania ; Vanuatu ; 12200
