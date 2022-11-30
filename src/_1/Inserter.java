@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 interface IInserterController {
@@ -15,46 +16,9 @@ public class Inserter {
 	private BufferedReader reader;
 	private Scanner mainScanner;
 	private InserterConfig config;
-
-	public Inserter(InserterConfig config) {
-		setPath(config.getPath());
-		this.config = config;
-	}
-
-	public void insert() throws SQLException {
-		while (mainScanner.hasNextLine()) {
-			Scanner lineScanner = new Scanner(mainScanner.nextLine());
-			lineScanner.useDelimiter("\\s*;\\s*");
-
-			String sqlQuery = "INSERT INTO " + config.getDb() + " VALUES(";
-			for (int i = 0; i < config.getColumnsTypes().size(); i++) {
-				sqlQuery += "?";
-				if (i < config.getColumnsTypes().size() - 1) {
-					sqlQuery += ", ";
-				}
-			}
-			sqlQuery += ")";
-
-			PreparedStatement insertStatement = config.getConnection().prepareStatement(sqlQuery);
-
-			for (int i = 1; i <= config.getColumnsTypes().size(); i++) {
-				ColumnTypes columnType = config.getColumnsTypes().get(i - 1);
-				if (columnType == ColumnTypes.STRING) {
-					insertStatement.setString(i, lineScanner.next());
-				} else if (columnType == ColumnTypes.INT) {
-					insertStatement.setInt(i, nextInt(lineScanner));
-				}
-			}
-
-			insertStatement.executeUpdate();
-
-			lineScanner.close();
-		}
-	}
-
-	public int nextInt(Scanner scanner) {
-		return Integer.parseInt(scanner.next());
-	}
+	private String dbUri;
+	private ArrayList<ColumnTypes> columnsTypes;
+	private int paramsAmount;
 
 	public void setPath(String path) {
 		try {
@@ -65,4 +29,55 @@ public class Inserter {
 		this.mainScanner = new Scanner(reader);
 	}
 
+	public void setConfig(InserterConfig config) {
+		this.config = config;
+		setPath(config.getPath());
+		this.dbUri = config.getDb();
+		this.columnsTypes = config.getColumnsTypes();
+		this.paramsAmount = columnsTypes.size();
+	}
+
+	public Inserter(InserterConfig config) {
+		setConfig(config);
+	}
+
+	public int nextInt(Scanner scanner) {
+		return Integer.parseInt(scanner.next());
+	}
+
+	public String createInsertQuery() {
+		String insertQuery = "INSERT INTO " + dbUri + " VALUES(";
+		for (int i = 0; i < paramsAmount; i++) {
+			insertQuery += "?";
+			if (i < paramsAmount - 1) {
+				insertQuery += ", ";
+			}
+		}
+		insertQuery += ")";
+		return insertQuery;
+	}
+
+	public void insert() throws SQLException {
+		while (mainScanner.hasNextLine()) {
+			Scanner lineScanner = new Scanner(mainScanner.nextLine());
+			lineScanner.useDelimiter("\\s*;\\s*");
+
+			PreparedStatement insertStatement = config.getConnection().prepareStatement(createInsertQuery());
+
+			for (int i = 1; i <= paramsAmount; i++) {
+				ColumnTypes columnType = columnsTypes.get(i - 1);
+				if (columnType == ColumnTypes.STRING) {
+					insertStatement.setString(i, lineScanner.next());
+				} else if (columnType == ColumnTypes.INT) {
+					insertStatement.setInt(i, nextInt(lineScanner));
+				}
+			}
+
+			insertStatement.executeUpdate();
+			lineScanner.close();
+		}
+
+		System.out.println("INSERTED " + dbUri);
+
+	}
 }

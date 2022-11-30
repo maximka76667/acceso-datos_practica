@@ -1,15 +1,11 @@
 package _1;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.PreparedStatement;
 import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Properties;
-import java.util.Scanner;
 
 public class Main {
 
@@ -21,6 +17,7 @@ public class Main {
 		Properties props = new Properties();
 		props.put("user", "root");
 		props.put("password", "root");
+		props.put("useSSL", "false");
 
 		try {
 			Connection connection = DriverManager.getConnection(url, props);
@@ -89,72 +86,60 @@ public class Main {
 			System.out.println("TABLES CREATED");
 
 			// Insert data
-			BufferedReader bufferedReader = new BufferedReader(new FileReader("src\\_1\\Paises.txt"));
-			Scanner scanner = new Scanner(bufferedReader);
+			// Insert paises
 
-			while (scanner.hasNextLine()) {
-				Scanner lineScanner = new Scanner(scanner.nextLine());
-				lineScanner.useDelimiter("\\s*;\\s*");
+			// Ejemplo:
+			// Africa ; Argelia ; 2381740
+			// String, String, Int
+			ArrayList<ColumnTypes> paisesColumnTypes = new ArrayList<ColumnTypes>(
+					Arrays.asList(ColumnTypes.STRING, ColumnTypes.STRING, ColumnTypes.INT));
 
-				String continente = lineScanner.next();
-				String pais = lineScanner.next();
-				int populacion = Integer.parseInt(lineScanner.next());
+			InserterConfig paisesInserterConfig = new InserterConfig(connectionDatabase, "src\\_1\\Paises.txt", "pais",
+					paisesColumnTypes);
 
-				PreparedStatement insertStatement = connectionDatabase
-						.prepareStatement("INSERT INTO pais VALUES(?,?,?)");
+			Inserter inserter = new Inserter(paisesInserterConfig);
+			inserter.insert();
 
-				insertStatement.setString(1, continente);
-				insertStatement.setString(2, pais);
-				insertStatement.setInt(3, populacion);
+			// Insert poblacion
 
-				insertStatement.executeUpdate();
-
-				lineScanner.close();
-			}
-
-			System.out.println("INSERT DATA PAIS");
-			scanner.close();
-
-			// Poblacion
-			bufferedReader = new BufferedReader(new FileReader("src\\_1\\Poblacion.txt"));
-			scanner = new Scanner(bufferedReader);
-
+			// Ejemplo:
 			// Alemania ; 81265 ; 39941 ; 41324
-			while (scanner.hasNextLine()) {
-				Scanner lineScanner = new Scanner(scanner.nextLine());
-				lineScanner.useDelimiter("\\s*;\\s*");
+			ArrayList<ColumnTypes> poblacionColumnTypes = new ArrayList<ColumnTypes>(
+					Arrays.asList(ColumnTypes.STRING, ColumnTypes.INT, ColumnTypes.INT, ColumnTypes.INT));
 
-				String pais = lineScanner.next();
-				int poblacion = Integer.parseInt(lineScanner.next());
-				int poblacionHombres = Integer.parseInt(lineScanner.next());
-				int poblacionMujeres = Integer.parseInt(lineScanner.next());
+			InserterConfig poblacionInserterConfig = new InserterConfig(connectionDatabase, "src\\_1\\Poblacion.txt",
+					"poblacion", poblacionColumnTypes);
 
-				PreparedStatement insertStatement = connectionDatabase
-						.prepareStatement("INSERT INTO poblacion VALUES(?, ?, ?, ?)");
+			inserter.setConfig(poblacionInserterConfig);
+			inserter.insert();
 
-				insertStatement.setString(1, pais);
-				insertStatement.setInt(2, poblacion);
-				insertStatement.setInt(3, poblacionHombres);
-				insertStatement.setInt(4, poblacionMujeres);
+			// Insert poblacion edades hombres
 
-				insertStatement.executeUpdate();
-
-				lineScanner.close();
-			}
-
-			System.out.println("INSERT DATA POBLACION");
-
-			scanner.close();
-
-			ArrayList<ColumnTypes> columnTypes = new ArrayList<ColumnTypes>(
+			// Ejemplo:
+			// Alemania ; 1627 ; 1708 ; 3091 ; 5613 ; 17815 ; 10087
+			ArrayList<ColumnTypes> poblacionEdadesHombresColumnTypes = new ArrayList<ColumnTypes>(
 					Arrays.asList(ColumnTypes.STRING, ColumnTypes.INT, ColumnTypes.INT, ColumnTypes.INT,
 							ColumnTypes.INT, ColumnTypes.INT, ColumnTypes.INT));
 
-			InserterConfig inserterConfig = new InserterConfig(connectionDatabase,
-					"src\\_1\\PoblacionEdadesMujeres.txt", "poblacionmujeres", columnTypes);
+			InserterConfig poblacionEdadesHombresInserterConfig = new InserterConfig(connectionDatabase,
+					"src\\_1\\PoblacionEdadesHombres.txt", "poblacionhombres", poblacionEdadesHombresColumnTypes);
 
-			Inserter inserterEdadesMujeres = new Inserter(inserterConfig);
-			inserterEdadesMujeres.insert();
+			inserter.setConfig(poblacionEdadesHombresInserterConfig);
+			inserter.insert();
+
+			// Insert poblacion edades mujeres
+
+			// Ejemplo:
+			// Alemania ; 1546 ; 1627 ; 2928 ; 5369 ; 17245 ; 12609
+			ArrayList<ColumnTypes> poblacionEdadesMujeresColumnTypes = new ArrayList<ColumnTypes>(
+					Arrays.asList(ColumnTypes.STRING, ColumnTypes.INT, ColumnTypes.INT, ColumnTypes.INT,
+							ColumnTypes.INT, ColumnTypes.INT, ColumnTypes.INT));
+
+			InserterConfig poblacionEdadesMujeresInserterConfig = new InserterConfig(connectionDatabase,
+					"src\\_1\\PoblacionEdadesMujeres.txt", "poblacionmujeres", poblacionEdadesMujeresColumnTypes);
+
+			inserter.setConfig(poblacionEdadesMujeresInserterConfig);
+			inserter.insert();
 
 		} catch (Exception e) {
 			e.printStackTrace();
