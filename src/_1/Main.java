@@ -154,9 +154,12 @@ public class Main {
 
 			ArrayList<ArrayList<Object>> poblacionMujeresParams = inserter.getParams();
 
+			// Ordenar paises por nombre del pais
+			// por que están ordenados por continente y otras listas por nombre pais
 			Collections.sort(paisesParams, new Comparator<ArrayList<Object>>() {
 				@Override
 				public int compare(ArrayList<Object> o1, ArrayList<Object> o2) {
+					// Comparar elementos de index 1 (nombre)
 					return ((String) o1.get(1)).compareTo((String) o2.get(1));
 				}
 			});
