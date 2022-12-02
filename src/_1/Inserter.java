@@ -20,6 +20,8 @@ public class Inserter {
 	private ArrayList<ColumnTypes> columnsTypes;
 	private int paramsAmount;
 
+	private ArrayList<ArrayList<Object>> params;
+
 	public void setPath(String path) {
 		try {
 			this.reader = new BufferedReader(new FileReader(path));
@@ -35,6 +37,7 @@ public class Inserter {
 		this.dbUri = config.getDb();
 		this.columnsTypes = config.getColumnsTypes();
 		this.paramsAmount = columnsTypes.size();
+		this.params = new ArrayList<ArrayList<Object>>();
 	}
 
 	public Inserter(InserterConfig config) {
@@ -64,14 +67,21 @@ public class Inserter {
 
 			PreparedStatement insertStatement = config.getConnection().prepareStatement(createInsertQuery());
 
+			ArrayList<Object> params = new ArrayList<Object>();
 			for (int i = 1; i <= paramsAmount; i++) {
 				ColumnTypes columnType = columnsTypes.get(i - 1);
+				Object param = null;
 				if (columnType == ColumnTypes.STRING) {
-					insertStatement.setString(i, lineScanner.next());
+					param = lineScanner.next();
+					insertStatement.setString(i, (String) param);
 				} else if (columnType == ColumnTypes.INT) {
-					insertStatement.setInt(i, nextInt(lineScanner));
+					param = nextInt(lineScanner);
+					insertStatement.setInt(i, (int) param);
 				}
+				params.add(param);
 			}
+
+			this.params.add(params);
 
 			insertStatement.executeUpdate();
 			lineScanner.close();
@@ -79,5 +89,9 @@ public class Inserter {
 
 		System.out.println("INSERTED " + dbUri);
 
+	}
+
+	public ArrayList<ArrayList<Object>> getParams() {
+		return this.params;
 	}
 }
