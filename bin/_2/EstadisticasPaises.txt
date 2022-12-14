@@ -1,0 +1,15 @@
+Pregunta                                      Pais                           Dato                           
+Mas extenso                                   Federacion de Rusia                    17075200 km2 
+Mas pequeno                                   Monaco                                        2 km2 
+Más Poblado                                   China                                       1402561 
+Menos poblado                                 Islas Malvinas                                    3 
+Mayor Densidad de Población                   Monaco                             16500,00 por km2 
+Menor Densidad de Población                   Groenlandia                            0,03 por km2 
+Mayor Densidad de Hombres                     Monaco                              8000,00 por km2 
+Mayor Densidad de Mujeres                     Monaco                              8500,00 por km2 
+Mayor Porcentaje de Hombres                   Emiratos Arabes Unidos                       66,46% 
+Mayor Porcentaje de Mujeres                   Islas Malvinas                               66,67% 
+Mas viejo                                     Japon                                        72,80% 
+Más Joven                                     Niger                                        75,13% 
+Mayor Porcentaje de Hombres entre 18 y 29     Montserrat                                   16,67% 
+Mayor Porcentaje de Mujeres entre 18 y 29     Montserrat                                   16,67% 

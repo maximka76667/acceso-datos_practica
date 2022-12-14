@@ -1,0 +1,7 @@
+Continente                                    Superficie     Densidad Total   Densidad Hombres   Densidad Mujeres 
+Total Africa                                    29417716      38,96 por km2      19,17 por km2      19,79 por km2 
+Total America                                   24709291      23,21 por km2      11,47 por km2      11,74 por km2 
+Total Asia                                      48946436      97,43 por km2      49,40 por km2      48,03 por km2 
+Total Europa                                    23850023      33,55 por km2      16,66 por km2      16,89 por km2 
+Total Oceania                                    8522246       4,62 por km2       2,30 por km2       2,32 por km2 
+Total general                                  135445712      54,10 por km2      27,19 por km2      26,92 por km2 

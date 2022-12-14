@@ -136,8 +136,6 @@ public class Main {
 
 			ArrayList<ArrayList<Object>> poblacionHombresParams = inserter.getParams();
 
-			System.out.println(inserter.getParams());
-
 			// Insert poblacion edades mujeres
 
 			// Ejemplo:
@@ -210,16 +208,16 @@ public class Main {
 				preparedStatement.setDouble(3, poblacionHombresPorcentaje);
 				preparedStatement.setDouble(4, poblacionMujeresPorcentaje);
 
-				double densidadTotal = poblacionTotal / superficie;
-				double densidadHombres = poblacionHombres / superficie;
-				double densidadMujeres = poblacionMujeres / superficie;
+				double densidadTotal = poblacionTotal * 1.0 / superficie;
+				double densidadHombres = poblacionHombres * 1.0 / superficie;
+				double densidadMujeres = poblacionMujeres * 1.0 / superficie;
 
 				preparedStatement.setDouble(5, densidadTotal);
 				preparedStatement.setDouble(6, densidadHombres);
 				preparedStatement.setDouble(7, densidadMujeres);
 
-				double porcentajeHombres_18_29 = poblacionHombres_18_29 * 1.0 / poblacionHombres * 100;
-				double porcentajeMujeres_18_29 = poblacionMujeres_18_29 * 1.0 / poblacionMujeres * 100;
+				double porcentajeHombres_18_29 = poblacionHombres_18_29 * 1.0 / poblacionTotal * 100;
+				double porcentajeMujeres_18_29 = poblacionMujeres_18_29 * 1.0 / poblacionTotal * 100;
 
 				preparedStatement.setDouble(8, porcentajeHombres_18_29);
 				preparedStatement.setDouble(9, porcentajeMujeres_18_29);
@@ -227,15 +225,16 @@ public class Main {
 				double porcentajeViejos = (poblacionHombres_30_59 + poblacionHombres_59 + poblacionMujeres_30_59
 						+ poblacionMujeres_59) * 1.0 / poblacionTotal * 100;
 				double porcentajeJovenes = (poblacionHombres_0_4 + poblacionHombres_5_9 + poblacionHombres_10_17
-						+ poblacionMujeres_0_4 + poblacionMujeres_5_9 + poblacionMujeres_10_17) * 1.0 / poblacionTotal
-						* 100;
+						+ poblacionHombres_18_29 + +poblacionMujeres_0_4 + poblacionMujeres_5_9 + poblacionMujeres_10_17
+						+ poblacionMujeres_18_29) * 1.0 / poblacionTotal * 100;
 
 				preparedStatement.setDouble(10, porcentajeViejos);
 				preparedStatement.setDouble(11, porcentajeJovenes);
 
 				preparedStatement.executeUpdate();
-
 			}
+
+			System.out.println("INSERTED porcentajes");
 
 		} catch (Exception e) {
 			e.printStackTrace();

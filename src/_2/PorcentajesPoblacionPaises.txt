@@ -1,0 +1,222 @@
+Continente     Pais                                         Total   Hombres   Mujeres  %Hombres%   %Mujeres% 
+Africa         Angola                                       21712     10693     11019     49,25%      50,75% 
+Africa         Argelia                                      38126     19234     18892     50,45%      49,55% 
+Africa         Benin                                        10658      5387      5270     50,54%      49,45% 
+Africa         Botswana                                      2106      1059      1047     50,28%      49,72% 
+Africa         Burkina Faso                                 19013      9526      9487     50,10%      49,90% 
+Africa         Burundi                                       9422      4631      4791     49,15%      50,85% 
+Africa         Cabo Verde                                     549       263       286     47,91%      52,09% 
+Africa         Camerun                                      22169     11107     11062     50,10%      49,90% 
+Africa         Chad                                         13133      6521      6612     49,65%      50,35% 
+Africa         Comoras                                        991       497       494     50,15%      49,85% 
+Africa         Congo                                         4229      2113      2117     49,96%      50,06% 
+Africa         Djibouti                                       953       477       476     50,05%      49,95% 
+Africa         Egipto                                       91962     46164     45797     50,20%      49,80% 
+Africa         Eritrea                                       5997      2962      3035     49,39%      50,61% 
+Africa         Etiopia                                      96237     47926     48311     49,80%      50,20% 
+Africa         Gabon                                         1642       823       820     50,12%      49,94% 
+Africa         Gambia                                        1987       987      1000     49,67%      50,33% 
+Africa         Ghana                                        26979     13678     13301     50,70%      49,30% 
+Africa         Guinea                                       11832      5981      5851     50,55%      49,45% 
+Africa         Guinea Ecuatorial                              783       389       394     49,68%      50,32% 
+Africa         Guinea-Bissau                                 1850       917       933     49,57%      50,43% 
+Africa         Jamahiriya Arabe Libia                        7158      3686      3472     51,49%      48,51% 
+Africa         Kenya                                        46387     23170     23217     49,95%      50,05% 
+Africa         Lesotho                                       2168      1032      1136     47,60%      52,40% 
+Africa         Liberia                                       4660      2323      2337     49,85%      50,15% 
+Africa         Madagascar                                   22899     11381     11518     49,70%      50,30% 
+Africa         Malawi                                       18016      8981      9035     49,85%      50,15% 
+Africa         Mali                                         14963      7407      7556     49,50%      50,50% 
+Africa         Marruecos                                    34364     16822     17543     48,95%      51,05% 
+Africa         Mauricio                                      1337       660       677     49,36%      50,64% 
+Africa         Mauritania                                    3732      1892      1840     50,70%      49,30% 
+Africa         Mozambique                                   25983     12745     13238     49,05%      50,95% 
+Africa         Namibia                                       2412      1194      1218     49,50%      50,50% 
+Africa         Niger                                        19169      9632      9537     50,25%      49,75% 
+Africa         Nigeria                                     176456     88668     87788     50,25%      49,75% 
+Africa         Republica Centroafricana                      4902      2419      2483     49,35%      50,65% 
+Africa         Republica Democratica Del Congo              84077     38400     45677     45,67%      54,33% 
+Africa         Republica Unida de Tanzania                  54871     26055     28816     47,48%      52,52% 
+Africa         Reunion                                        844       431       413     51,07%      48,93% 
+Africa         Rwanda                                       12976      5707      7269     43,98%      56,02% 
+Africa         Sahara occidental                              626       329       297     52,56%      47,44% 
+Africa         Santa Elena                                      4         2         2     50,00%      50,00% 
+Africa         Santo Tome y Principe                          184        89        95     48,37%      51,63% 
+Africa         Senegal                                      15790      7205      8585     45,63%      54,37% 
+Africa         Seychelles                                      84        43        41     51,19%      48,81% 
+Africa         Sierra Leona                                  7226      3206      4019     44,37%      55,62% 
+Africa         Somalia                                      10892      5333      5559     48,96%      51,04% 
+Africa         Sudafrica                                    54733     25480     29253     46,55%      53,45% 
+Africa         Sudan                                        47396     24056     23340     50,76%      49,24% 
+Africa         Swazilandia                                   1423       636       788     44,69%      55,38% 
+Africa         Togo                                          7599      3773      3826     49,65%      50,35% 
+Africa         Tunez                                        10590      5475      5115     51,70%      48,30% 
+Africa         Uganda                                       40544     19934     20609     49,17%      50,83% 
+Africa         Zambia                                       15025      7505      7520     49,95%      50,05% 
+Africa         Zimbabwe                                     14282      6860      7421     48,03%      51,96% 
+America        Anguilla                                        17         8         9     47,06%      52,94% 
+America        Antigua y Barbuda                               93        46        47     49,46%      50,54% 
+America        Antillas Neerlandesas                          207        96       111     46,38%      53,62% 
+America        Aruba                                          109        52        57     47,71%      52,29% 
+America        Bahamas                                        366       178       188     48,63%      51,37% 
+America        Barbados                                       260       127       133     48,85%      51,15% 
+America        Belice                                         344       173       171     50,29%      49,71% 
+America        Bermudas                                        65        33        32     50,77%      49,23% 
+America        Canada                                       35422     17605     17817     49,70%      50,30% 
+America        Costa Rica                                    4957      2513      2444     50,70%      49,30% 
+America        Cuba                                         11224      5618      5607     50,05%      49,96% 
+America        Dominica                                        67        33        34     49,25%      50,75% 
+America        El Salvador                                   6383      2987      3396     46,80%      53,20% 
+America        Estados Unidos de America                   332334    164505    167829     49,50%      50,50% 
+America        Granada                                        107        54        53     50,47%      49,53% 
+America        Groenlandia                                     57        29        28     50,88%      49,12% 
+America        Guadalupe                                      476       227       249     47,69%      52,31% 
+America        Guatemala                                    16211      7903      8308     48,75%      51,25% 
+America        Haiti                                        10957      5424      5533     49,50%      50,50% 
+America        Honduras                                      8394      4193      4201     49,95%      50,05% 
+America        Islas Caiman                                    59        29        30     49,15%      50,85% 
+America        Islas Turcas y Caicos                           35        17        18     48,57%      51,43% 
+America        Islas Virgenes (EE.UU.)                        108        51        57     47,22%      52,78% 
+America        Islas Virgenes Britanicas                       24        12        12     50,00%      50,00% 
+America        Jamaica                                       2786      1368      1418     49,10%      50,90% 
+America        Martinica                                      411       193       218     46,96%      53,04% 
+America        Mexico                                      115644     56840     58804     49,15%      50,85% 
+America        Montserrat                                       6         3         3     50,00%      50,00% 
+America        Nicaragua                                     6284      3107      3176     49,44%      50,54% 
+America        Panama                                        3694      1902      1792     51,49%      48,51% 
+America        Puerto Rico                                   4151      1947      2204     46,90%      53,10% 
+America        Republica Dominicana                         10682      5444      5238     50,96%      49,04% 
+America        Saint-Pierre y Miquelon                          6         3         3     50,00%      50,00% 
+America        San Vicente y las Granadinas                   116        55        60     47,41%      51,72% 
+America        Santa Lucia                                    190        89       101     46,84%      53,16% 
+America        Trinidad y Tabago                             1305       662       643     50,73%      49,27% 
+Asia           Afganistan                                   34280     17774     16507     51,85%      48,15% 
+Asia           Arabia Saudita                               28933     15682     13251     54,20%      45,80% 
+Asia           Argentina                                    42548     20891     21657     49,10%      50,90% 
+Asia           Azerbaiyan                                    9417      4628      4788     49,15%      50,84% 
+Asia           Bahrein                                        881       503       378     57,09%      42,91% 
+Asia           Bangladesh                                  175042     88485     86557     50,55%      49,45% 
+Asia           Bhutan                                         770       407       363     52,86%      47,14% 
+Asia           Bolivia                                      10865      5416      5449     49,85%      50,15% 
+Asia           Brasil                                      202866     99607    103259     49,10%      50,90% 
+Asia           Brunei Darussalam                              443       227       216     51,24%      48,76% 
+Asia           Camboya                                      16341      8048      8293     49,25%      50,75% 
+Asia           Chile                                        17908      8855      9053     49,45%      50,55% 
+Asia           China                                      1402561    728658    673903     51,95%      48,05% 
+Asia           Colombia                                     49385     24297     25088     49,20%      50,80% 
+Asia           Cote d'Ivoire                                24210     12274     11936     50,70%      49,30% 
+Asia           Ecuador                                      14611      7298      7313     49,95%      50,05% 
+Asia           Emiratos Arabes Unidos                        5188      3448      1740     66,46%      33,54% 
+Asia           Filipinas                                   101836     51376     50460     50,45%      49,55% 
+Asia           Guam                                           191        97        94     50,79%      49,21% 
+Asia           Guayana francesa                               261       130       131     49,81%      50,19% 
+Asia           Guyana                                         752       385       367     51,20%      48,80% 
+Asia           India                                      1295486    667803    627683     51,55%      48,45% 
+Asia           Indonesia                                   244435    121851    122584     49,85%      50,15% 
+Asia           Iran (Republica Islamica del)                79454     40283     39171     50,70%      49,30% 
+Asia           Iraq                                         35812     18157     17655     50,70%      49,30% 
+Asia           Islas Malvinas                                   3         1         2     33,33%      66,67% 
+Asia           Islas Marianas septentrionales                  96        46        50     47,92%      52,08% 
+Asia           Islas Marshall                                  70        34        36     48,57%      51,43% 
+Asia           Israel                                        7807      3880      3927     49,70%      50,30% 
+Asia           Japon                                       125791     61009     64782     48,50%      51,50% 
+Asia           Jordania                                      6957      3562      3395     51,20%      48,80% 
+Asia           Kazajstan                                    16273      7721      8552     47,45%      52,55% 
+Asia           Kirguistan                                    5883      2909      2974     49,45%      50,55% 
+Asia           Kuwait                                        3375      1986      1388     58,84%      41,13% 
+Asia           Libano                                        4430      2169      2262     48,96%      51,06% 
+Asia           Malasia                                      30041     15231     14810     50,70%      49,30% 
+Asia           Maldivas                                       338       170       167     50,30%      49,41% 
+Asia           Mongolia                                      2855      1410      1445     49,39%      50,61% 
+Asia           Myanmar                                      53087     25906     27181     48,80%      51,20% 
+Asia           Nepal                                        32503     16121     16382     49,60%      50,40% 
+Asia           Oman                                          3454      1781      1673     51,56%      48,44% 
+Asia           Pakistan                                    225438    105629    119809     46,86%      53,14% 
+Asia           Paraguay                                      6867      3525      3342     51,33%      48,67% 
+Asia           Peru                                         30979     15661     15318     50,55%      49,45% 
+Asia           Qatar                                         1821      1209       611     66,39%      33,55% 
+Asia           Republica Arabe Siria                        26943     12443     14500     46,18%      53,82% 
+Asia           Republica De Corea                           50824     24331     26493     47,87%      52,13% 
+Asia           Republica Democratica Popular Lao             6951      3507      3444     50,45%      49,55% 
+Asia           Republica Popular Democratica de Corea       23618     12053     11565     51,03%      48,97% 
+Asia           Singapur                                      4492      2535      1958     56,43%      43,59% 
+Asia           Sri Lanka                                    19833     10372      9462     52,30%      47,71% 
+Asia           Suriname                                       533       273       260     51,22%      48,78% 
+Asia           Tailandia                                    74135     34270     39865     46,23%      53,77% 
+Asia           Tayikistan                                    7963      3826      4137     48,05%      51,95% 
+Asia           Territorio Palestino Ocupado                  5136      2596      2540     50,55%      49,45% 
+Asia           Turkmenistan                                  5564      2710      2854     48,71%      51,29% 
+Asia           Uruguay                                       3228      1657      1571     51,33%      48,67% 
+Asia           Uzbekistan                                   29809     14669     15140     49,21%      50,79% 
+Asia           Venezuela (Republica Bolivariana de)         30291     15677     14613     51,75%      48,24% 
+Asia           Viet Nam                                     98704     46449     52255     47,06%      52,94% 
+Asia           Yemen                                        28320     14049     14271     49,61%      50,39% 
+Europa         Albania                                       3256      1602      1654     49,20%      50,80% 
+Europa         Alemania                                     81265     39941     41324     49,15%      50,85% 
+Europa         Andorra                                         93        48        45     51,61%      48,39% 
+Europa         Armenia                                       3136      1466      1670     46,75%      53,25% 
+Europa         Austria                                       8467      4149      4318     49,00%      51,00% 
+Europa         Belarus                                       9346      4331      5014     46,34%      53,65% 
+Europa         Belgica                                      10878      5319      5559     48,90%      51,10% 
+Europa         Bosnia y Herzegovina                          3731      1793      1938     48,06%      51,94% 
+Europa         Bulgaria                                      7263      3501      3762     48,20%      51,80% 
+Europa         Chipre                                         924       450       474     48,70%      51,30% 
+Europa         Croacia                                       4370      2111      2259     48,31%      51,69% 
+Europa         Dinamarca                                     5517      2745      2773     49,76%      50,26% 
+Europa         Eslovaquia                                    5437      2632      2805     48,41%      51,59% 
+Europa         Eslovenia                                     2044      1002      1042     49,02%      50,98% 
+Europa         España                                       47203     23413     23790     49,60%      50,40% 
+Europa         Estonia                                       1336       618       718     46,26%      53,74% 
+Europa         Federacion de Rusia                         137845     63472     74373     46,05%      53,95% 
+Europa         Finlandia                                     5432      2667      2765     49,10%      50,90% 
+Europa         Francia                                      63900     31119     32781     48,70%      51,30% 
+Europa         Georgia                                       4084      1915      2169     46,89%      53,11% 
+Europa         Gibraltar                                       31        16        15     51,61%      48,39% 
+Europa         Grecia                                       11250      5585      5664     49,64%      50,35% 
+Europa         Hungria                                       9864      4680      5184     47,45%      52,55% 
+Europa         Irlanda                                       4876      2443      2433     50,10%      49,90% 
+Europa         Islandia                                       353       183       170     51,84%      48,16% 
+Europa         Islas Feroe (Miembro Asociado)                  52        26        26     50,00%      50,00% 
+Europa         Italia                                       60543     29575     30969     48,85%      51,15% 
+Europa         La ex Republica Yugoslava de Macedonia        2045      1020      1025     49,88%      50,12% 
+Europa         Letonia                                       2195      1017      1178     46,33%      53,67% 
+Europa         Liechtenstein                                   38        19        19     50,00%      50,00% 
+Europa         Lituania                                      3140      1471      1669     46,85%      53,15% 
+Europa         Luxemburgo                                     521       259       262     49,71%      50,29% 
+Europa         Malta                                          418       209       209     50,00%      50,00% 
+Europa         Monaco                                          33        16        17     48,48%      51,52% 
+Europa         Montenegro                                     626       308       319     49,20%      50,96% 
+Europa         Noruega                                       4694      2513      2181     53,54%      46,46% 
+Europa         Paises Bajos                                 15156      8390      6766     55,36%      44,64% 
+Europa         Polonia                                      34841     18176     16665     52,17%      47,83% 
+Europa         Portugal                                     10679      5232      5447     48,99%      51,01% 
+Europa         Reino Unido                                  55841     31256     24585     55,97%      44,03% 
+Europa         Republica Checa                               9396      5171      4225     55,03%      44,97% 
+Europa         Republica De Moldova                          3455      1648      1807     47,70%      52,30% 
+Europa         Rumania                                      19623     10082      9541     51,38%      48,62% 
+Europa         San Marino                                      30        16        14     53,33%      46,67% 
+Europa         Serbia                                        8953      4865      4088     54,34%      45,66% 
+Europa         Suecia                                        8947      4730      4217     52,87%      47,13% 
+Europa         Suiza                                         7063      3760      3303     53,24%      46,76% 
+Europa         Turquia                                      79486     40063     39423     50,40%      49,60% 
+Europa         Ucrania                                      40499     20360     20139     50,27%      49,73% 
+Oceania        Australia                                    22584     11236     11349     49,75%      50,25% 
+Oceania        Fiji                                           874       443       431     50,69%      49,31% 
+Oceania        Islas Cook                                      20        10        10     50,00%      50,00% 
+Oceania        Islas Salomon                                  600       310       289     51,67%      48,17% 
+Oceania        Islas Wallis y Futuna                           16         8         8     50,00%      50,00% 
+Oceania        Kiribati                                       107        51        56     47,66%      52,34% 
+Oceania        Micronesia (Estados Federados de)              114        58        56     50,88%      49,12% 
+Oceania        Nauru                                           11         5         6     45,45%      54,55% 
+Oceania        Nueva Caledonia                                285       135       150     47,37%      52,63% 
+Oceania        Nueva Zelandia                                4321      2224      2098     51,47%      48,55% 
+Oceania        Palau                                           21        10        11     47,62%      52,38% 
+Oceania        Papua Nueva Guinea                            7916      3893      4023     49,18%      50,82% 
+Oceania        Polinesia Francesa                             288       147       141     51,04%      48,96% 
+Oceania        Saint Kitts y Nevis                             54        27        26     50,00%      48,15% 
+Oceania        Samoa                                          191        94        96     49,21%      50,26% 
+Oceania        Samoa Americana                                 73        37        36     50,68%      49,32% 
+Oceania        Timor-Leste                                   1451       704       748     48,52%      51,55% 
+Oceania        Tonga                                          103        53        49     51,46%      47,57% 
+Oceania        Tuvalu                                          10         5         5     50,00%      50,00% 
+Oceania        Vanuatu                                        307       140       167     45,60%      54,40% 

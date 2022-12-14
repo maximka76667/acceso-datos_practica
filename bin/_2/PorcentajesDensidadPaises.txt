@@ -1,0 +1,222 @@
+Continente      Pais                                         Densidad Total   Densidad Hombres   Densidad Mujeres 
+Africa          Angola                                        17,42 por km2       8,58 por km2       8,84 por km2 
+Africa          Argelia                                       16,01 por km2       8,08 por km2       7,93 por km2 
+Africa          Benin                                         94,64 por km2      47,83 por km2      46,79 por km2 
+Africa          Botswana                                       3,51 por km2       1,76 por km2       1,74 por km2 
+Africa          Burkina Faso                                  69,34 por km2      34,74 por km2      34,60 por km2 
+Africa          Burundi                                      338,56 por km2     166,40 por km2     172,15 por km2 
+Africa          Cabo Verde                                   136,13 por km2      65,21 por km2      70,91 por km2 
+Africa          Camerun                                       46,63 por km2      23,36 por km2      23,27 por km2 
+Africa          Chad                                          10,23 por km2       5,08 por km2       5,15 por km2 
+Africa          Comoras                                      456,68 por km2     229,03 por km2     227,65 por km2 
+Africa          Congo                                         12,37 por km2       6,18 por km2       6,19 por km2 
+Africa          Djibouti                                      41,43 por km2      20,74 por km2      20,70 por km2 
+Africa          Egipto                                        91,83 por km2      46,10 por km2      45,73 por km2 
+Africa          Eritrea                                       49,43 por km2      24,41 por km2      25,02 por km2 
+Africa          Etiopia                                       85,38 por km2      42,52 por km2      42,86 por km2 
+Africa          Gabon                                          6,13 por km2       3,07 por km2       3,06 por km2 
+Africa          Gambia                                       175,84 por km2      87,35 por km2      88,50 por km2 
+Africa          Ghana                                        112,67 por km2      57,12 por km2      55,55 por km2 
+Africa          Guinea                                        48,13 por km2      24,33 por km2      23,80 por km2 
+Africa          Guinea Ecuatorial                             27,91 por km2      13,87 por km2      14,05 por km2 
+Africa          Guinea-Bissau                                 51,22 por km2      25,39 por km2      25,83 por km2 
+Africa          Jamahiriya Arabe Libia                         4,07 por km2       2,09 por km2       1,97 por km2 
+Africa          Kenya                                         79,61 por km2      39,77 por km2      39,85 por km2 
+Africa          Lesotho                                       71,42 por km2      34,00 por km2      37,42 por km2 
+Africa          Liberia                                       41,84 por km2      20,86 por km2      20,98 por km2 
+Africa          Madagascar                                    39,01 por km2      19,39 por km2      19,62 por km2 
+Africa          Malawi                                       152,06 por km2      75,80 por km2      76,26 por km2 
+Africa          Mali                                          12,07 por km2       5,97 por km2       6,09 por km2 
+Africa          Marruecos                                     76,95 por km2      37,67 por km2      39,29 por km2 
+Africa          Mauricio                                     655,39 por km2     323,53 por km2     331,86 por km2 
+Africa          Mauritania                                     3,62 por km2       1,84 por km2       1,79 por km2 
+Africa          Mozambique                                    32,41 por km2      15,90 por km2      16,51 por km2 
+Africa          Namibia                                        2,92 por km2       1,45 por km2       1,48 por km2 
+Africa          Niger                                         15,13 por km2       7,60 por km2       7,53 por km2 
+Africa          Nigeria                                      191,02 por km2      95,99 por km2      95,03 por km2 
+Africa          Republica Centroafricana                       7,87 por km2       3,88 por km2       3,99 por km2 
+Africa          Republica Democratica Del Congo               35,85 por km2      16,37 por km2      19,48 por km2 
+Africa          Republica Unida de Tanzania                   58,06 por km2      27,57 por km2      30,49 por km2 
+Africa          Reunion                                      335,99 por km2     171,58 por km2     164,41 por km2 
+Africa          Rwanda                                       492,67 por km2     216,68 por km2     275,99 por km2 
+Africa          Sahara occidental                              2,35 por km2       1,24 por km2       1,12 por km2 
+Africa          Santa Elena                                    9,69 por km2       4,84 por km2       4,84 por km2 
+Africa          Santo Tome y Principe                        183,82 por km2      88,91 por km2      94,91 por km2 
+Africa          Senegal                                       80,48 por km2      36,72 por km2      43,76 por km2 
+Africa          Seychelles                                   184,62 por km2      94,51 por km2      90,11 por km2 
+Africa          Sierra Leona                                 100,72 por km2      44,69 por km2      56,02 por km2 
+Africa          Somalia                                       17,08 por km2       8,36 por km2       8,72 por km2 
+Africa          Sudafrica                                     44,87 por km2      20,89 por km2      23,98 por km2 
+Africa          Sudan                                         25,13 por km2      12,75 por km2      12,37 por km2 
+Africa          Swazilandia                                   81,96 por km2      36,63 por km2      45,38 por km2 
+Africa          Togo                                         133,82 por km2      66,44 por km2      67,38 por km2 
+Africa          Tunez                                         64,73 por km2      33,46 por km2      31,26 por km2 
+Africa          Uganda                                       171,77 por km2      84,45 por km2      87,31 por km2 
+Africa          Zambia                                        19,96 por km2       9,97 por km2       9,99 por km2 
+Africa          Zimbabwe                                      36,57 por km2      17,56 por km2      19,00 por km2 
+America         Anguilla                                     186,81 por km2      87,91 por km2      98,90 por km2 
+America         Antigua y Barbuda                            209,93 por km2     103,84 por km2     106,09 por km2 
+America         Antillas Neerlandesas                        215,63 por km2     100,00 por km2     115,63 por km2 
+America         Aruba                                        573,68 por km2     273,68 por km2     300,00 por km2 
+America         Bahamas                                       26,26 por km2      12,77 por km2      13,49 por km2 
+America         Barbados                                     603,25 por km2     294,66 por km2     308,58 por km2 
+America         Belice                                        14,54 por km2       7,31 por km2       7,23 por km2 
+America         Bermudas                                    1226,42 por km2     622,64 por km2     603,77 por km2 
+America         Canada                                         3,55 por km2       1,76 por km2       1,78 por km2 
+America         Costa Rica                                    97,01 por km2      49,18 por km2      47,83 por km2 
+America         Cuba                                         101,24 por km2      50,68 por km2      50,58 por km2 
+America         Dominica                                      88,86 por km2      43,77 por km2      45,09 por km2 
+America         El Salvador                                  303,37 por km2     141,97 por km2     161,41 por km2 
+America         Estados Unidos de America                     33,82 por km2      16,74 por km2      17,08 por km2 
+America         Granada                                      311,05 por km2     156,98 por km2     154,07 por km2 
+America         Groenlandia                                    0,03 por km2       0,01 por km2       0,01 por km2 
+America         Guadalupe                                    279,02 por km2     133,06 por km2     145,96 por km2 
+America         Guatemala                                    148,88 por km2      72,58 por km2      76,30 por km2 
+America         Haiti                                        394,85 por km2     195,46 por km2     199,39 por km2 
+America         Honduras                                      74,89 por km2      37,41 por km2      37,48 por km2 
+America         Islas Caiman                                 225,19 por km2     110,69 por km2     114,50 por km2 
+America         Islas Turcas y Caicos                         83,93 por km2      40,77 por km2      43,17 por km2 
+America         Islas Virgenes (EE.UU.)                      306,82 por km2     144,89 por km2     161,93 por km2 
+America         Islas Virgenes Britanicas                    156,86 por km2      78,43 por km2      78,43 por km2 
+America         Jamaica                                      253,48 por km2     124,47 por km2     129,01 por km2 
+America         Martinica                                    373,64 por km2     175,45 por km2     198,18 por km2 
+America         Mexico                                        58,63 por km2      28,82 por km2      29,81 por km2 
+America         Montserrat                                    58,82 por km2      29,41 por km2      29,41 por km2 
+America         Nicaragua                                     48,53 por km2      23,99 por km2      24,53 por km2 
+America         Panama                                        47,24 por km2      24,32 por km2      22,92 por km2 
+America         Puerto Rico                                  467,98 por km2     219,50 por km2     248,48 por km2 
+America         Republica Dominicana                         219,21 por km2     111,72 por km2     107,49 por km2 
+America         Saint-Pierre y Miquelon                       24,79 por km2      12,40 por km2      12,40 por km2 
+America         San Vicente y las Granadinas                 298,20 por km2     141,39 por km2     154,24 por km2 
+America         Santa Lucia                                  308,44 por km2     144,48 por km2     163,96 por km2 
+America         Trinidad y Tabago                            254,49 por km2     129,10 por km2     125,39 por km2 
+Asia            Afganistan                                    52,94 por km2      27,45 por km2      25,49 por km2 
+Asia            Arabia Saudita                                13,46 por km2       7,30 por km2       6,16 por km2 
+Asia            Argentina                                     15,38 por km2       7,55 por km2       7,83 por km2 
+Asia            Azerbaiyan                                   108,74 por km2      53,44 por km2      55,29 por km2 
+Asia            Bahrein                                     1324,81 por km2     756,39 por km2     568,42 por km2 
+Asia            Bangladesh                                  1215,57 por km2     614,48 por km2     601,09 por km2 
+Asia            Bhutan                                        16,38 por km2       8,66 por km2       7,72 por km2 
+Asia            Bolivia                                        9,89 por km2       4,93 por km2       4,96 por km2 
+Asia            Brasil                                        23,83 por km2      11,70 por km2      12,13 por km2 
+Asia            Brunei Darussalam                             76,78 por km2      39,34 por km2      37,44 por km2 
+Asia            Camboya                                       90,26 por km2      44,45 por km2      45,81 por km2 
+Asia            Chile                                         23,66 por km2      11,70 por km2      11,96 por km2 
+Asia            China                                        146,15 por km2      75,93 por km2      70,22 por km2 
+Asia            Colombia                                      43,36 por km2      21,33 por km2      22,03 por km2 
+Asia            Cote d'Ivoire                                200,85 por km2     101,83 por km2      99,02 por km2 
+Asia            Ecuador                                       51,53 por km2      25,74 por km2      25,79 por km2 
+Asia            Emiratos Arabes Unidos                        62,06 por km2      41,24 por km2      20,81 por km2 
+Asia            Filipinas                                    339,45 por km2     171,25 por km2     168,20 por km2 
+Asia            Guam                                         353,05 por km2     179,30 por km2     173,75 por km2 
+Asia            Guayana francesa                               2,87 por km2       1,43 por km2       1,44 por km2 
+Asia            Guyana                                         3,50 por km2       1,79 por km2       1,71 por km2 
+Asia            India                                        394,05 por km2     203,13 por km2     190,92 por km2 
+Asia            Indonesia                                    127,35 por km2      63,48 por km2      63,86 por km2 
+Asia            Iran (Republica Islamica del)                 48,21 por km2      24,44 por km2      23,77 por km2 
+Asia            Iraq                                          81,94 por km2      41,54 por km2      40,39 por km2 
+Asia            Islas Malvinas                                 0,25 por km2       0,08 por km2       0,16 por km2 
+Asia            Islas Marianas septentrionales               201,26 por km2      96,44 por km2     104,82 por km2 
+Asia            Islas Marshall                               409,36 por km2     198,83 por km2     210,53 por km2 
+Asia            Israel                                       375,88 por km2     186,81 por km2     189,07 por km2 
+Asia            Japon                                        332,93 por km2     161,47 por km2     171,46 por km2 
+Asia            Jordania                                      75,37 por km2      38,59 por km2      36,78 por km2 
+Asia            Kazajstan                                      5,99 por km2       2,84 por km2       3,15 por km2 
+Asia            Kirguistan                                    29,64 por km2      14,65 por km2      14,98 por km2 
+Asia            Kuwait                                       189,39 por km2     111,45 por km2      77,89 por km2 
+Asia            Libano                                       425,96 por km2     208,56 por km2     217,50 por km2 
+Asia            Malasia                                       91,10 por km2      46,19 por km2      44,91 por km2 
+Asia            Maldivas                                    1134,23 por km2     570,47 por km2     560,40 por km2 
+Asia            Mongolia                                       1,83 por km2       0,90 por km2       0,92 por km2 
+Asia            Myanmar                                       78,24 por km2      38,18 por km2      40,06 por km2 
+Asia            Nepal                                        220,84 por km2     109,53 por km2     111,31 por km2 
+Asia            Oman                                          16,26 por km2       8,38 por km2       7,87 por km2 
+Asia            Pakistan                                     280,42 por km2     131,39 por km2     149,03 por km2 
+Asia            Paraguay                                      16,88 por km2       8,67 por km2       8,22 por km2 
+Asia            Peru                                          24,10 por km2      12,19 por km2      11,92 por km2 
+Asia            Qatar                                        157,17 por km2     104,35 por km2      52,74 por km2 
+Asia            Republica Arabe Siria                        145,50 por km2      67,19 por km2      78,30 por km2 
+Asia            Republica De Corea                           227,56 por km2     108,94 por km2     118,62 por km2 
+Asia            Republica Democratica Popular Lao             29,35 por km2      14,81 por km2      14,54 por km2 
+Asia            Republica Popular Democratica de Corea       195,93 por km2      99,99 por km2      95,94 por km2 
+Asia            Singapur                                    6481,96 por km2    3658,01 por km2    2825,40 por km2 
+Asia            Sri Lanka                                    302,29 por km2     158,09 por km2     144,22 por km2 
+Asia            Suriname                                       3,26 por km2       1,67 por km2       1,59 por km2 
+Asia            Tailandia                                    144,23 por km2      66,67 por km2      77,56 por km2 
+Asia            Tayikistan                                    55,65 por km2      26,74 por km2      28,91 por km2 
+Asia            Territorio Palestino Ocupado                 825,72 por km2     417,36 por km2     408,36 por km2 
+Asia            Turkmenistan                                  11,40 por km2       5,55 por km2       5,85 por km2 
+Asia            Uruguay                                       18,32 por km2       9,40 por km2       8,91 por km2 
+Asia            Uzbekistan                                    66,63 por km2      32,79 por km2      33,84 por km2 
+Asia            Venezuela (Republica Bolivariana de)          33,21 por km2      17,19 por km2      16,02 por km2 
+Asia            Viet Nam                                     299,51 por km2     140,94 por km2     158,56 por km2 
+Asia            Yemen                                         53,64 por km2      26,61 por km2      27,03 por km2 
+Europa          Albania                                      113,26 por km2      55,73 por km2      57,53 por km2 
+Europa          Alemania                                     227,62 por km2     111,87 por km2     115,75 por km2 
+Europa          Andorra                                      198,72 por km2     102,56 por km2      96,15 por km2 
+Europa          Armenia                                      105,23 por km2      49,19 por km2      56,04 por km2 
+Europa          Austria                                      100,95 por km2      49,47 por km2      51,48 por km2 
+Europa          Belarus                                       45,02 por km2      20,86 por km2      24,15 por km2 
+Europa          Belgica                                      356,33 por km2     174,23 por km2     182,10 por km2 
+Europa          Bosnia y Herzegovina                          72,97 por km2      35,07 por km2      37,90 por km2 
+Europa          Bulgaria                                      65,49 por km2      31,57 por km2      33,92 por km2 
+Europa          Chipre                                        97,06 por km2      47,27 por km2      49,79 por km2 
+Europa          Croacia                                       77,29 por km2      37,34 por km2      39,95 por km2 
+Europa          Dinamarca                                    128,02 por km2      63,70 por km2      64,35 por km2 
+Europa          Eslovaquia                                   111,31 por km2      53,88 por km2      57,43 por km2 
+Europa          Eslovenia                                    100,82 por km2      49,43 por km2      51,40 por km2 
+Europa          España                                        93,51 por km2      46,38 por km2      47,13 por km2 
+Europa          Estonia                                       29,54 por km2      13,66 por km2      15,88 por km2 
+Europa          Federacion de Rusia                            8,07 por km2       3,72 por km2       4,36 por km2 
+Europa          Finlandia                                     16,06 por km2       7,89 por km2       8,18 por km2 
+Europa          Francia                                      116,81 por km2      56,89 por km2      59,93 por km2 
+Europa          Georgia                                       58,59 por km2      27,47 por km2      31,12 por km2 
+Europa          Gibraltar                                   5166,67 por km2    2666,67 por km2    2500,00 por km2 
+Europa          Grecia                                        85,27 por km2      42,33 por km2      42,93 por km2 
+Europa          Hungria                                      106,03 por km2      50,31 por km2      55,72 por km2 
+Europa          Irlanda                                       69,38 por km2      34,76 por km2      34,62 por km2 
+Europa          Islandia                                       3,43 por km2       1,78 por km2       1,65 por km2 
+Europa          Islas Feroe (Miembro Asociado)                37,17 por km2      18,58 por km2      18,58 por km2 
+Europa          Italia                                       200,99 por km2      98,18 por km2     102,81 por km2 
+Europa          La ex Republica Yugoslava de Macedonia        80,72 por km2      40,26 por km2      40,46 por km2 
+Europa          Letonia                                       33,98 por km2      15,75 por km2      18,24 por km2 
+Europa          Liechtenstein                                242,04 por km2     121,02 por km2     121,02 por km2 
+Europa          Lituania                                      48,16 por km2      22,56 por km2      25,60 por km2 
+Europa          Luxemburgo                                   201,47 por km2     100,15 por km2     101,31 por km2 
+Europa          Malta                                       1322,78 por km2     661,39 por km2     661,39 por km2 
+Europa          Monaco                                     16500,00 por km2    8000,00 por km2    8500,00 por km2 
+Europa          Montenegro                                    44,63 por km2      21,96 por km2      22,74 por km2 
+Europa          Noruega                                       14,50 por km2       7,76 por km2       6,74 por km2 
+Europa          Paises Bajos                                 364,98 por km2     202,04 por km2     162,93 por km2 
+Europa          Polonia                                      111,43 por km2      58,13 por km2      53,30 por km2 
+Europa          Portugal                                     115,58 por km2      56,63 por km2      58,96 por km2 
+Europa          Reino Unido                                  228,09 por km2     127,67 por km2     100,42 por km2 
+Europa          Republica Checa                              119,14 por km2      65,57 por km2      53,57 por km2 
+Europa          Republica De Moldova                         102,09 por km2      48,70 por km2      53,39 por km2 
+Europa          Rumania                                       82,62 por km2      42,45 por km2      40,17 por km2 
+Europa          San Marino                                   491,80 por km2     262,30 por km2     229,51 por km2 
+Europa          Serbia                                       115,56 por km2      62,80 por km2      52,77 por km2 
+Europa          Suecia                                        19,88 por km2      10,51 por km2       9,37 por km2 
+Europa          Suiza                                        171,06 por km2      91,06 por km2      80,00 por km2 
+Europa          Turquia                                      101,83 por km2      51,32 por km2      50,50 por km2 
+Europa          Ucrania                                       67,08 por km2      33,73 por km2      33,36 por km2 
+Oceania         Australia                                      2,94 por km2       1,46 por km2       1,48 por km2 
+Oceania         Fiji                                          47,84 por km2      24,25 por km2      23,59 por km2 
+Oceania         Islas Cook                                    83,33 por km2      41,67 por km2      41,67 por km2 
+Oceania         Islas Salomon                                 21,09 por km2      10,90 por km2      10,16 por km2 
+Oceania         Islas Wallis y Futuna                         58,39 por km2      29,20 por km2      29,20 por km2 
+Oceania         Kiribati                                     131,94 por km2      62,89 por km2      69,05 por km2 
+Oceania         Micronesia (Estados Federados de)            162,39 por km2      82,62 por km2      79,77 por km2 
+Oceania         Nauru                                        523,81 por km2     238,10 por km2     285,71 por km2 
+Oceania         Nueva Caledonia                               14,95 por km2       7,08 por km2       7,87 por km2 
+Oceania         Nueva Zelandia                                16,08 por km2       8,28 por km2       7,81 por km2 
+Oceania         Palau                                         42,17 por km2      20,08 por km2      22,09 por km2 
+Oceania         Papua Nueva Guinea                            17,10 por km2       8,41 por km2       8,69 por km2 
+Oceania         Polinesia Francesa                            69,11 por km2      35,28 por km2      33,84 por km2 
+Oceania         Saint Kitts y Nevis                          206,90 por km2     103,45 por km2      99,62 por km2 
+Oceania         Samoa                                         64,88 por km2      31,93 por km2      32,61 por km2 
+Oceania         Samoa Americana                              370,56 por km2     187,82 por km2     182,74 por km2 
+Oceania         Timor-Leste                                   96,69 por km2      46,91 por km2      49,84 por km2 
+Oceania         Tonga                                        137,70 por km2      70,86 por km2      65,51 por km2 
+Oceania         Tuvalu                                       384,62 por km2     192,31 por km2     192,31 por km2 
+Oceania         Vanuatu                                       25,16 por km2      11,48 por km2      13,69 por km2 
